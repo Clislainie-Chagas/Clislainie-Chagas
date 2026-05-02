@@ -1,14 +1,11 @@
-<h1 style="color: #d542f6;">👩🏻‍💻 Clislainie Chagas 🎨</h1>
+>👩🏻‍💻 Clislainie Chagas 🎨<
 
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Clislainie Chagas Martins, tenho 38 anos, sou natural do Paraná e atualmente resido em Navegantes-SC. Sou tatuadora e body piercer, e estou em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.
 
-Concluí o ensino médio no Colégio Mário Evaldo Morski e iniciei a graduação em Tecnologia em Estética e Cosmética pela Faculdade Guairacá (Guarapuava-PR), embora não tenha seguido na área.
-
 Sempre tive forte afinidade com tecnologia e criação visual, desenvolvendo de forma independente templates para banners, cartões de visita e mídias digitais, além de criar meus próprios sites e landing pages para meu estúdio. Possuo perfil criativo, atenção aos detalhes e alto nível de exigência com qualidade, características desenvolvidas ao longo da minha trajetória artística. Tenho facilidade de aprendizado, perfil autodidata e grande foco em evolução contínua. 
-
 
 ---
 
