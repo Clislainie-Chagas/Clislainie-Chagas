@@ -87,17 +87,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Clislainie-C
 
 ---
 
-[# 🏆 Troféus
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Clislainie-Chagas&theme=tokyonight&row=1&column=6"/>
-
-</p>](url)
-
----
-
 # 📚 Atualmente estudando
 
 - React
@@ -131,12 +120,12 @@ src="https://github-profile-trophy.vercel.app/?username=Clislainie-Chagas&theme=
 
 <p align="left">
 
-<a href="https://www.linkedin.com/Clislainie-Chagas">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/clislainie-chagas">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="Clislainie Chagas:clis.tattoo@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:clis.tattoo@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
